@@ -39,7 +39,7 @@ img{
 	float: left;
 }
  
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 500px) {
 	.kotak{
 		width: 60%;
 		padding: 0px;
@@ -47,11 +47,11 @@ img{
 	}
 	
 	.kiri{
-		width: 80%;
+		width: 100%;
 	}
  
 	.kanan{
-		width: 80%;
+		width: 100%;
 		padding: 0;
 	}
 }
